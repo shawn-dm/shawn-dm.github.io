@@ -44,7 +44,7 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 - *2024* Excellent Student in CUMT.
 - *2024* Best Paper Award in 21th International Conference on Web Information Systems and Applications.
 - *2023* Honor Graduate in GXNU.
-- *2022* Postgraduate Excellence Award in GXNU. 
+- *2022* Postgraduate Excellence Award (Presidential Scholarship) in GXNU. 
 - *2021* Third Prize of the 18th National Post-Graduate Mathematical Contest in Modeling (Huawei Cup). 
 - *2021* Merit Student of GXNU.
   
