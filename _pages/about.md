@@ -31,6 +31,8 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 - [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, *ACM Transactions on Knowledge Discovery from Data, 2024*
 
 - [Learning fair representations via rebalancing graph structure](https://www.sciencedirect.com/science/article/pii/S0306457323003072), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shichao Zhang, *Information Processing and Management, 2024*
+  
+- Deconfounding Representation Learning for Mitigating Latent Confounding Effects in Recommendation. **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Ziqi Xu, Shichao Zhang. *Knowledge and Information Systems,2025.*
 
 - [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, *ACM Transactions on Multimedia Computing, Communications and Applications, 2024*
   
