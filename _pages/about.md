@@ -23,7 +23,8 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 
 # 📝 Publications 
 
-
+- Causality-Inspired Disentanglement for Fair Graph Neural Networks, **Guixian Zhang**, Debo Cheng, Guan Yuan, Shang Liu, Yanmei Zhang. *IJCAI, 2025*
+  
 - [Mitigating Propensity Bias of Large Language Models for Recommender Systems](https://arxiv.org/abs/2409.20052), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Information Systems, 2025*
 
 - [Disentangled contrastive learning for fair graph representations](https://doi.org/10.1016/j.neunet.2024.106781), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *Neural Networks, 2024*
