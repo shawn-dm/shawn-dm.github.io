@@ -64,3 +64,5 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 # 📖 History
 
 In 1905, there were hundreds of professors renowned for their study of the universe, but it was a 26 year old Swiss patent clerk, doing physics in his spare time, who changed the world.
+
+"The important thing is not to stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend only a little of this mystery every day. Never lose a holy curiosity."
