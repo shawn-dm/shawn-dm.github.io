@@ -61,10 +61,6 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
 
 
-%# 📖 Educations
-%- *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
-%- *2020.09 - 2023.06*, Guangxi Normal University, M.S. 
-%- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering, B.S. 
+# 📖 History
 
-%# 💻 Internships
-%- *I'm looking for a research internship.* 
+In 1905, there were hundreds of professors renowned for their study of the universe, but it was a 26 year old Swiss patent clerk, doing physics in his spare time, who changed the world.
