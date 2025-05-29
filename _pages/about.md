@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?user=c8G6JzIAAAAJ&hl=en). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, and AI4S. I have published 10+ papers with total [100+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks, physics and biomedicine. I am also hobbyist in photography, cookery and football.
+Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence (Computer Science and Technology) at China University of Mining and Technology, supervised by Prof. [Guan Yuan](http://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm). Before that, I was pursuing my master's degree at Guangxi Normal University under the supervision of Prof. [Shichao Zhang](https://scholar.google.com/citations?user=c8G6JzIAAAAJ&hl=en). My current research interest includes Graph Neural Network, Trustworthy AI, Causality, and AI4S. I have published 10+ papers with total [100+ google scholar citations](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl). Meanwhile, I'm extra focused on AI applications in social networks, physics and biomedicine. I am also hobbyist in photography, cookery and football.
 
 🤝 **Looking for collaborations to work on impactful projects!** Please feel free to contact me for collaborations, research discussions, or just to connect!
 
@@ -61,10 +61,10 @@ Hi, I'm **Guixian Zhang**, currently a second year PhD candidate in Artificial I
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
 
 
-# 📖 Educations
-- *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
-- *2020.09 - 2023.06*, Guangxi Normal University, M.S. 
-- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering, B.S. 
+%# 📖 Educations
+%- *2023.09 - 2027.06 (now)*, China University of Mining and Technology, Ph.D.
+%- *2020.09 - 2023.06*, Guangxi Normal University, M.S. 
+%- *2015.09 - 2019.06*, North China Institute of Aerospace Engineering, B.S. 
 
-# 💻 Internships
-- *I'm looking for a research internship.* 
+%# 💻 Internships
+%- *I'm looking for a research internship.* 
