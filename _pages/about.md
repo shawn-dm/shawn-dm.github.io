@@ -27,7 +27,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 - [Mitigating Propensity Bias of Large Language Models for Recommender Systems](https://dl.acm.org/doi/10.1145/3736404), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Information Systems, 2025*
 
-- [Disentangled contrastive learning for fair graph representations](https://doi.org/10.1016/j.neunet.2024.106781), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *Neural Networks, 2024*
+- [Disentangled contrastive learning for fair graph representations](https://doi.org/10.1016/j.neunet.2024.106781), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *Neural Networks, 2025*
 
 - [Bayesian Graph Local Extrema Convolution with Long-Tail Strategy for Misinformation Detection](https://dl.acm.org/doi/full/10.1145/3639408), **Guixian Zhang**, Shichao Zhang, Guan Yuan, *ACM Transactions on Knowledge Discovery from Data, 2024*
 
@@ -35,10 +35,11 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 - [Deconfounding Representation Learning for Mitigating Latent Confounding Effects in Recommendation](https://link.springer.com/article/10.1007/s10115-025-02404-7). **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Ziqi Xu, Shichao Zhang. *Knowledge and Information Systems, 2025.*
 
-- [Nonlocal Hybrid Network for Long-tailed Image Classification](https://dl.acm.org/doi/abs/10.1145/3630256), Rongjiao Liang, Shichao Zhang, Wenzhen Zhang, **Guixian Zhang**, Jinyun Tang, *ACM Transactions on Multimedia Computing, Communications and Applications, 2024*
-  
 - [FPGNN: Fair path graph neural network for mitigating discrimination](https://link.springer.com/article/10.1007/s11280-023-01178-8), **Guixian Zhang**, Debo Cheng, Shichao Zhang, *World Wide Web, 2023*
 
+- [Graph Unlearning System with Subgraph De-Isolation Measures](https://dl.acm.org/doi/abs/10.1145/3630256), Yi Li, Debo Cheng, **Guixian Zhang**, Chengyu Li, Shichao Zhang, *ACM Transactions on Autonomous and Adaptive Systems, 2025*
+
+- [Community-Centric Graph Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/34041), Yi Li, Shichao Zhang,  **Guixian Zhang**, Debo Cheng, *AAAI, 2025*
 
 - [More publications at Google Scholar!](https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl)
 
