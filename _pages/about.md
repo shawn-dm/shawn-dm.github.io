@@ -23,6 +23,8 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 
 # 📝 Publications 
 
+- 因果驱动的自适应去噪认知诊断框架(Causal-driven adaptive denoising cognitive diagnostic framework),  **Guixian Zhang**, Guan Yuan, Yanmei Zhang, Qiuyan Yan, Shang Liu. *计算机学报(Chinese Journal of Computers), 2025*
+
 - [Causality-Inspired Disentanglement for Fair Graph Neural Networks](https://www.ijcai.org/proceedings/2025/72), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shang Liu, Yanmei Zhang. *IJCAI, 2025*
   
 - [Mitigating Propensity Bias of Large Language Models for Recommender Systems](https://dl.acm.org/doi/10.1145/3736404), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Information Systems, 2025*
@@ -46,7 +48,9 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 
 # 🎖 Honors and Awards
-- *2024* National Scholarship (TOP 1st in the college).
+- *2025* 2025年挑战杯“揭榜挂帅”（新一代信息技术领域）擂台赛全国一等奖 (The Challenge Cup National First Prize).
+- *2025* 江苏大学生创新大赛二等奖(Second Prize in Jiangsu College Students'Innovation Competition).
+- *2024* National Scholarship (TOP 1st in the school).
 - *2024* Excellent Student in CUMT.
 - *2024* Best Paper Award in 21th International Conference on Web Information Systems and Applications.
 - *2023* Honor Graduate in GXNU.
@@ -56,7 +60,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 # 💬 Serives
 - Serving as a PC or reviewer for conferences:  ICLR2024-2026, ICML2025-2026, NeurlPS2024-2026, KDD2024-2026, WWW2024-2026, AISTATS2025-2026, IJCAI2023-2026, AAAI2023-2026, CHI2025, MM2024-2025, ICWSM2025, ECAI2026, DASFAA2025-2026, PAKDD2023-2026, ACML2025, ADMA2025.
-- Serving as a reviewer for journals: AIJ, TKDD, IPM, NN, KAIS, WWWJ, IJHCI, ESWA, Neurocomputing, KBS, EAAI, TJSC, IJMLC, IVC, MS, and others.
+- Serving as a reviewer for journals: AIJ, TKDD, IPM, NN, PR, KAIS, WWWJ, IJHCI, ESWA, Neurocomputing, KBS, EAAI, TJSC, IJMLC, IVC, MS, and others.
 - Hosting the Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province (2024-2026): *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
