@@ -48,7 +48,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 
 # 🎖 Honors and Awards
-- *2025* 2025年挑战杯“揭榜挂帅”（新一代信息技术领域）擂台赛全国一等奖 (The Challenge Cup National First Prize).
+- *2025* 挑战杯“揭榜挂帅”（新一代信息技术领域）擂台赛全国一等奖 (The Challenge Cup National First Prize).
 - *2025* 江苏大学生创新大赛二等奖(Second Prize in Jiangsu College Students'Innovation Competition).
 - *2024* National Scholarship (TOP 1st in the school).
 - *2024* Excellent Student in CUMT.
