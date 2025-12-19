@@ -23,7 +23,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 
 # 📝 Publications 
 
-- Towards Fair Graph Representation Learning by Overcoming Social Homophily, **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Intelligent Systems and Technology, 2026*
+- [Towards Fair Graph Representation Learning by Overcoming Social Homophily](https://dl.acm.org/doi/10.1145/3785503), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Intelligent Systems and Technology, 2026*
 
 - Noise-Aware Graph-based Cognitive Diagnostic Framework through Low-rank Alignment,  **Guixian Zhang**, Yanmei Zhang, Guan Yuan, Shang Liu, Xiaojing Du, Debo Cheng. *AAAI, 2026*
  
