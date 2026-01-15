@@ -23,6 +23,8 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 
 # 📝 Publications 
 
+- [Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems](https://arxiv.org/abs/2510.04093), **Guixian Zhang**, Guan Yuan, Ziqi Xu, Yanmei Zhang, Jing Ren, Zhenyun Deng, Debo Cheng, *The Web Conf, 2026*
+
 - [Towards Fair Graph Representation Learning by Overcoming Social Homophily](https://dl.acm.org/doi/10.1145/3785503), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Intelligent Systems and Technology, 2026*
 
 - Noise-Aware Graph-based Cognitive Diagnostic Framework through Low-rank Alignment,  **Guixian Zhang**, Yanmei Zhang, Guan Yuan, Shang Liu, Xiaojing Du, Debo Cheng. *AAAI, 2026*
