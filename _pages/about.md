@@ -66,7 +66,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
   
 # 💬 Serives
 - Serving as a PC or reviewer for conferences:  ICLR2024-2026, ICML2025-2026, NeurlPS2024-2026, KDD2024-2026, WWW2024-2026, AISTATS2025-2026, IJCAI2023-2026, AAAI2023-2026, CHI2025, MM2024-2025, ICWSM2025, ECAI2026, DASFAA2025-2026, PAKDD2023-2026, ACML2025, ADMA2025.
-- Serving as a reviewer for journals: AIJ, TKDE, TKDD, IPM, NN, PR, KAIS, WWWJ, IJHCI, IJAR, ESWA, Neurocomputing, KBS, EAAI, TJSC, IJMLC, IVC, MS, and others.
+- Serving as a reviewer for journals: TPAMI, TKDE, AIJ, TKDD, IPM, NN, PR, KAIS, WWWJ, IJHCI, IJAR, ESWA, Neurocomputing, KBS, EAAI, TJSC, IJMLC, IVC, MS, and others.
 - Hosting the Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security (2025-2026): *Research on debiased graph machine learning algorithms towards social scenarios*.
 - Hosting the Postgraduate Research & Practice Innovation Program of Jiangsu Province (2024-2026): *Research on causal debiasing algorithm for recommender system based on graph learning*.
 - Hosting the Innovation Project of Guangxi Graduate Education (2022-2023): *Rumour detection based on knowledge graph and contrastive learning*.
