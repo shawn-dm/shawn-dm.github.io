@@ -29,7 +29,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 
 - Noise-Aware Graph-based Cognitive Diagnostic Framework through Low-rank Alignment,  **Guixian Zhang**, Yanmei Zhang, Guan Yuan, Shang Liu, Xiaojing Du, Debo Cheng. *AAAI, 2026*
  
-- 因果驱动的自适应去噪认知诊断框架(Causality-driven adaptive denoising cognitive diagnostic framework),  **Guixian Zhang**, Guan Yuan, Yanmei Zhang, Qiuyan Yan, Shang Liu. *计算机学报(Chinese Journal of Computers), 2025*
+- 因果驱动的自适应去噪认知诊断框架(Causality-driven adaptive denoising cognitive diagnostic framework),  **Guixian Zhang**, Guan Yuan, Yanmei Zhang, Qiuyan Yan, Shang Liu. *计算机学报(Chinese Journal of Computers), 2026*
 
 - [Causality-Inspired Disentanglement for Fair Graph Neural Networks](https://www.ijcai.org/proceedings/2025/72), **Guixian Zhang**, Debo Cheng, Guan Yuan, Shang Liu, Yanmei Zhang. *IJCAI, 2025*
   
@@ -57,12 +57,8 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 - *2025* 挑战杯“揭榜挂帅”（新一代信息技术领域）擂台赛全国一等奖 (The Challenge Cup National First Prize).
 - *2025* 江苏大学生创新大赛二等奖(Second Prize in Jiangsu College Students'Innovation Competition).
 - *2024* National Scholarship (TOP 1st in the school).
-- *2024* Excellent Student in CUMT.
 - *2024* Best Paper Award in 21th International Conference on Web Information Systems and Applications.
-- *2023* Honor Graduate in GXNU.
-- *2022* Postgraduate Excellence Award (Presidential Scholarship) in GXNU. 
-- *2021* Third Prize of the 18th National Post-Graduate Mathematical Contest in Modeling (Huawei Cup). 
-- *2021* Merit Student of GXNU.
+
   
 # 💬 Serives
 - **Serving as a PC or reviewer for conferences**:  ICLR2024-2026, ICML2024-2025, NeurlPS2024-2026, KDD2024-2026, WWW2024-2026, AISTATS2025-2026, IJCAI2023-2026, AAAI2023-2026, CHI2025, MM2024-2025, ICWSM2025, ECAI2026, DASFAA2025-2026, PAKDD2023-2026, ACML2025, ADMA2025.
