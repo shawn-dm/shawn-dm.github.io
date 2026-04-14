@@ -71,3 +71,13 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 In 1905, there were hundreds of professors renowned for their study of the universe, but it was a 26 year old Swiss patent clerk, doing physics in his spare time, who changed the world.
 
 "The important thing is not to stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend only a little of this mystery every day. Never lose a holy curiosity."
+
+Perhaps we have never considered that the next Einstein who could change the world might, simply because of poverty or conflict, forever lose the opportunity to step into a classroom or secure a decent job. The reality is that over 200 million school-age children and adolescents worldwide still remain outside the school gates.
+
+Over the years, I have tried to contribute in my own small way through donations, and I once spent time as a volunteer teacher at an orphanage. It was during that experience that I truly saw the longing hidden in those children's eyes—a simple, yet fervent, pursuit of a better life.
+
+If you have the capacity and the willingness, you might consider looking into local charitable initiatives. A modest donation, or even just an afternoon spent keeping them company, might open a window to the future for a child, allowing their talents to flourish and empowering them to support themselves one day.
+
+For information on how to get involved, reaching out to local volunteer organizations is a very direct way. If you're curious about the specific needs of children in China, you can also take a look at the ["Tencent Charity Foundation" (腾讯公益)](https://gongyi.qq.com/) platform.
+
+May every child be gently embraced by knowledge and hope.
