@@ -27,7 +27,7 @@ Hi, I'm **Guixian Zhang**, currently a PhD candidate in Artificial Intelligence 
 
 - [Towards Fair Graph Representation Learning by Overcoming Social Homophily](https://dl.acm.org/doi/10.1145/3785503), **Guixian Zhang**, Guan Yuan, Debo Cheng, Lin Liu, Jiuyong Li, Shichao Zhang, *ACM Transactions on Intelligent Systems and Technology, 2026*
 
-- Noise-Aware Graph-based Cognitive Diagnostic Framework through Low-rank Alignment,  **Guixian Zhang**, Yanmei Zhang, Guan Yuan, Shang Liu, Xiaojing Du, Debo Cheng. *AAAI, 2026*
+- [Noise-Aware Graph-based Cognitive Diagnostic Framework through Low-rank Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/38665),  **Guixian Zhang**, Yanmei Zhang, Guan Yuan, Shang Liu, Xiaojing Du, Debo Cheng. *AAAI, 2026*
  
 - 因果驱动的自适应去噪认知诊断框架(Causality-driven adaptive denoising cognitive diagnostic framework),  **Guixian Zhang**, Guan Yuan, Yanmei Zhang, Qiuyan Yan, Shang Liu. *计算机学报(Chinese Journal of Computers), 2026*
 
