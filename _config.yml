@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guixian Zhang"
-description              : "Ph.D. candidate."
+description              : "Ph.D."
 repository               : "shawn-dm/shawn-dm.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guixian Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "China University of Mining and Technology"
-  location         : "Xuzhou, China"
+  bio              : "Hainan University"
+  location         : "Haikou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u81-9zQAAAAJ&hl"
-  email            : "guixian@cumt.edu.cn"
+  email            : "guixian@hainanu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
