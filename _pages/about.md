@@ -20,7 +20,7 @@ Hi, I'm **Guixian Zhang**, currently an Associate Professor (副研究员) at Ha
 
 ✍️ **Looking for collaborations to work on impactful projects!** Please feel free to contact me for collaborations, research discussions, or just to connect!
 
-👨‍🏫  每年招收硕士研究生，欢迎发送邮件到我的邮箱guixian[AT]hainanu.edu.cn。请在附件中添加简历与成绩单。同时，欢迎对科研感兴趣的本科生同学联系进行科研训练。
+👨‍🏫  每年招收硕士研究生，欢迎发送邮件到我的邮箱guixian[AT]hainanu.edu.cn。请在附件中添加简历与成绩单。同时，欢迎对科研感兴趣的本科生同学联系进行科研训练或相关比赛。
 
 # 📝 Publications 
 
